@@ -10,3 +10,7 @@ git push add origin (Colocar o repositorio do github)
 
 git push(Subir o projeto para o repositorio do github) 
 
+git reflog (Ver historico e id do projeto)
+
+git reset --hard + o id do projeto (Voltar as versões anteriores)
+
