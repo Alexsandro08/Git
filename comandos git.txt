@@ -1,0 +1,12 @@
+git init (Criar uma pagina git)
+
+git status(Verificar oque há dentro da pagina)
+
+git add .(adicionar todos elementos dentro da pagina) 
+
+git commit -m ""(Vesionar o codigo e colocar mensagem) 
+
+git push add origin (Colocar o repositorio do github) 
+
+git push(Subir o projeto para o repositorio do github) 
+
