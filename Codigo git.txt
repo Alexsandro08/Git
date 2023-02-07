@@ -1,2 +1,4 @@
 Teste com git
 nova linha de texto com git
+nova linha
+nova linha git
