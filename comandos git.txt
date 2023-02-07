@@ -18,4 +18,6 @@ git branch + o nome da branch (Criar clones para testar o codigo)
 
 git checkout + nome da branch (Mudar o projeto principal)
 
+git pull (Trazer todas as atualização do servidor) // primeiro usar esse comando antes do git merge
+
 git merge + nome da branch (Juntar código do projeto secundario com o primario)
