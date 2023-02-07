@@ -17,3 +17,5 @@ git reset --hard + o id do projeto (Voltar as versões anteriores)
 git branch + o nome da branch (Criar clones para testar o codigo)
 
 git checkout + nome da branch (Mudar o projeto principal)
+
+git merge + nome da branch (Juntar código do projeto secundario com o primario)
